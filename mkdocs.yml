@@ -1,0 +1,8 @@
+site_name: Test-backstage-1362
+
+nav:
+  - Home: index.md
+
+plugins:
+  - monorepo
+  - techdocs-core

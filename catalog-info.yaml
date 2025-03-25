@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-backstage-1362
+  title: Test-backstage-1362
+  description: A static HTML website. Just like the good old days.
+  links:
+    - url: https://roadiehq.github.io/test-backstage-1362/
+      title: Live website
+  annotations:
+    github.com/project-slug: roadiehq/test-backstage-1362
+spec:
+  type: website
+  owner: user:dtuite
+  lifecycle: experimental
